@@ -1,0 +1,12 @@
+{
+  "name": "crest-point-capital-website",
+  "version": "1.0.0",
+  "description": "Crest Point Capital - Where Your Wealth Grows Exponentially",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static site - no server needed'"
+  },
+  "keywords": ["crypto", "hedge-fund", "blockchain", "fintech"],
+  "author": "Crest Point Capital",
+  "license": "MIT"
+}
